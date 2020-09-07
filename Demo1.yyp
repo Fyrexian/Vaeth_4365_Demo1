@@ -1,10 +1,18 @@
 {
   "resources": [
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":15,},
+    {"id":{"name":"spr_npc2","path":"sprites/spr_npc2/spr_npc2.yy",},"order":4,},
+    {"id":{"name":"spr_bluecoin","path":"sprites/spr_bluecoin/spr_bluecoin.yy",},"order":5,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
+    {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":2,},
+    {"id":{"name":"obj_bluecoins","path":"objects/obj_bluecoins/obj_bluecoins.yy",},"order":5,},
+    {"id":{"name":"obj_npc1","path":"objects/obj_npc1/obj_npc1.yy",},"order":2,},
     {"id":{"name":"spr_pl1","path":"sprites/spr_pl1/spr_pl1.yy",},"order":0,},
+    {"id":{"name":"obj_npc2","path":"objects/obj_npc2/obj_npc2.yy",},"order":6,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"order":3,},
     {"id":{"name":"obj_pl1","path":"objects/obj_pl1/obj_pl1.yy",},"order":0,},
+    {"id":{"name":"spr_npc1","path":"sprites/spr_npc1/spr_npc1.yy",},"order":3,},
+    {"id":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},"order":4,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
   ],
   "Options": [

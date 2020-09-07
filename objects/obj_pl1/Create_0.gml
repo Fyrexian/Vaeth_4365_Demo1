@@ -10,3 +10,11 @@ maxfall = 10;
 jumpspeed=6;
 movespeed=4;
 
+coins = 0;
+bluecoins = 0;
+
+quest1=0;
+quest2=0;
+
+
+key_int1=0;

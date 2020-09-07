@@ -1,7 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":15,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":15,},
     {"id":{"name":"spr_pl1","path":"sprites/spr_pl1/spr_pl1.yy",},"order":0,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"obj_pl1","path":"objects/obj_pl1/obj_pl1.yy",},"order":0,},

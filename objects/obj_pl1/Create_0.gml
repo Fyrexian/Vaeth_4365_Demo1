@@ -15,6 +15,15 @@ bluecoins = 0;
 
 quest1=0;
 quest2=0;
-
+quest3=0;
 
 key_int1=0;
+
+beehives = 0;
+
+youwin=0;
+
+if (room == P1_Room0)
+{
+    audio_play_sound(sn_music, 10, 1);
+}

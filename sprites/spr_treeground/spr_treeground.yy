@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"15394407-27f4-43df-99f5-b1dfe7764260","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Sprites/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_treeground",

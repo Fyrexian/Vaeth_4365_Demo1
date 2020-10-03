@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"556ecc34-2de2-4dde-b98d-dcf55989dc5d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Sprites/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_dirt",

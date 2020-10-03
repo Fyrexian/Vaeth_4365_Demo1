@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3fe1ec1a-bffb-4091-a9aa-c6f591c8fb60","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Sprites/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_sign",

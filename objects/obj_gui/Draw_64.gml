@@ -34,7 +34,8 @@ else if (obj_npc1.txtbox==3)
 	draw_text(208,308,"I'll take the branch.");
 	draw_text(208,324,"Thanks for your help. You win!");
 	}
-
+	
+//----------------------------------------------------------------------------------------
 //quest 2
 
 draw_text(10,30, "Blue Coins: " +string(obj_pl1.bluecoins));
@@ -70,7 +71,7 @@ else if (obj_npc2.txtbox2==3)
 	draw_text(208,308,"Thanks for your help.");
 	}
 
-
+//----------------------------------------------------------------------------------------
 //sign
 if (obj_sign.txtbox3==1)
 	{
@@ -80,7 +81,7 @@ if (obj_sign.txtbox3==1)
 	}
 
 
-
+//----------------------------------------------------------------------------------------
 //quest 3
 //if(obj_pl1.quest3==1)
 //{
@@ -117,6 +118,7 @@ else if (obj_npc3.txtbox5==3)
 	draw_text(208,308,"Thanks for your help.");
 	}
 	
+	//----------------------------------------------------------------------------------------
 	//you win
 	
 	if(obj_pl1.youwin==1)

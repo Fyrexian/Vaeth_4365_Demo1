@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b741188c-753c-424f-8ed1-de1156c29ef8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Sprites/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_beehive",

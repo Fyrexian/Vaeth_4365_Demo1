@@ -928,8 +928,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Rooms/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "P1_Room1",

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"11e5e20a-813a-4748-882c-57a07d8afb19","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Sprites/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_IndictatorK",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_pl1",
-    "path": "sprites/spr_pl1/spr_pl1.yy",
+    "name": "spr_pc3",
+    "path": "sprites/spr_pc3/spr_pc3.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "prootyope1",
+    "path": "folders/Objects/prootyope1.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_pl1",

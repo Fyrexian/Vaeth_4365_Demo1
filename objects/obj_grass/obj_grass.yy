@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "greatoutdoors",
+    "path": "folders/Objects/greatoutdoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_grass",
